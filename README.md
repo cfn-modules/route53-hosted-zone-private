@@ -41,7 +41,7 @@ Resources:
   <tbody>
     <tr>
       <td>VpcModule</td>
-      <td>Stack name of vpc module</td>
+      <td>Stack name of <a href="https://www.npmjs.com/package/@cfn-modules/vpc">vpc module</a></td>
       <td></td>
       <td>yes</td>
       <td></td>

@@ -1,7 +1,8 @@
 {
   "name": "@cfn-modules/route53-hosted-zone-private",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "AWS Route53 hosted zone accessible inside VPC only",
   "author": "Michael Wittig <michael@widdix.de>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "keywords": ["cfn-modules", "cfn-modules:HostedZone"]
 }
