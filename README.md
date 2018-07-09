@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/cfn-modules/route53-hosted-zone-private.svg?branch=master)](https://travis-ci.org/cfn-modules/route53-hosted-zone-private)
+[![NPM version](https://img.shields.io/npm/v/@cfn-modules/route53-hosted-zone-private.svg)](https://www.npmjs.com/package/@cfn-modules/route53-hosted-zone-private)
+
 # cfn-modules: AWS Route53 hosted zone (private)
 
 AWS Route53 hosted zone accessible inside VPC only. For a public accessible hosted zone look at the [route53-hosted-zone-public](https://www.npmjs.com/package/@cfn-modules/route53-hosted-zone-public) module.
