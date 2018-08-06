@@ -20,7 +20,7 @@ npm i @cfn-modules/route53-hosted-zone-private
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'cfn-modules example'
 Resources:
-  Function:
+  HostedZone:
     Type: 'AWS::CloudFormation::Stack'
     Properties:
       Parameters:
