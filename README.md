@@ -29,6 +29,15 @@ Resources:
       TemplateURL: './node_modules/@cfn-modules/route53-hosted-zone-private/module.yml'
 ```
 
+## Examples
+
+none
+
+## Related modules
+
+* [route53-hosted-zone-public](https://github.com/cfn-modules/route53-hosted-zone-public)
+* [route53-hosted-zone-wrapper](https://github.com/cfn-modules/route53-hosted-zone-wrapper)
+
 ## Parameters
 
 <table>
