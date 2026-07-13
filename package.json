@@ -4,13 +4,16 @@
   "description": "AWS Route53 hosted zone accessible inside VPC only",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
-  "keywords": ["cfn-modules", "cfn-modules:HostedZone"],
+  "keywords": [
+    "cfn-modules",
+    "cfn-modules:HostedZone"
+  ],
   "homepage": "https://github.com/cfn-modules",
   "bugs": {
     "url": "https://github.com/cfn-modules/route53-hosted-zone-private/issues"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/cfn-modules/route53-hosted-zone-private.git"
+    "type": "git",
+    "url": "https://github.com/cfn-modules/route53-hosted-zone-private.git"
   }
 }
